@@ -6,7 +6,7 @@ An end-to-end Customer & CRM Analytics project analyzing Brazilian E-Commerce
 data by Olist to identify high-value customers, retention risks, loyalty drivers,
 delivery-performance issues, and opportunities for customer growth.
 
-The project combines **Google BigQuery, Python, RFM Analysis, and Power BI**
+The project combines **Python, Data Analysis, Google BigQuery, RFM Analysis and Power BI**
 to transform raw transactional data into actionable business insights.
 
 ---
