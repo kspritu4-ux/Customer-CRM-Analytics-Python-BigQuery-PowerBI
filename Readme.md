@@ -115,6 +115,7 @@ The Power BI solution provides:
 - Order Status Distribution
 - Delivery Performance
 
+<img width="1432" height="802" alt="Screenshot 2026-09-16 014126" src="https://github.com/user-attachments/assets/5ea058a7-7c73-4665-8309-38354563bb9e" />
 
 
 ### Customer Segments
@@ -123,6 +124,9 @@ The Power BI solution provides:
 - Revenue at Risk
 - Customer Segment Analysis
 
+<img width="1438" height="802" alt="image" src="https://github.com/user-attachments/assets/4e90c3c0-6abb-436d-abb8-a7b55754e31b" />
+
+
 ### Delivery & Satisfaction
 - On-Time Delivery
 - Delivery Delay by State
@@ -130,12 +134,21 @@ The Power BI solution provides:
 - Late Orders
 - Customer Rating vs Delivery Performance
 
+<img width="1437" height="802" alt="image" src="https://github.com/user-attachments/assets/88508b5f-5033-4d60-8ea1-f00a26156ea1" />
+
+
 ### Product & Category
 - Category Revenue
 - Category Orders
 - Category Average Rating
 - Repeat Rate by Category
 - Category Performance
+
+<img width="1437" height="802" alt="image" src="https://github.com/user-attachments/assets/d81d9adf-53a7-4ad7-9b02-2daff3b0e08d" />
+
+### Dashboard Overview
+
+<img width="1437" height="801" alt="image" src="https://github.com/user-attachments/assets/76ec7293-0903-4c43-8f1a-3eff5231c726" />
 
 ---
 
