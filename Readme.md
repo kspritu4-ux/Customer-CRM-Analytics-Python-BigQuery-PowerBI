@@ -3,7 +3,7 @@
 ## 📊 Turning Customer Data into Retention Decisions
 
 An end-to-end Customer & CRM Analytics project analyzing Brazilian E-Commerce
-data to identify high-value customers, retention risks, loyalty drivers,
+data by Olist to identify high-value customers, retention risks, loyalty drivers,
 delivery-performance issues, and opportunities for customer growth.
 
 The project combines **Google BigQuery, Python, RFM Analysis, and Power BI**
