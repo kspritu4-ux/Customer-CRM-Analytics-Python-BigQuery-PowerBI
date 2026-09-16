@@ -11,6 +11,25 @@ to transform raw transactional data into actionable business insights.
 
 ---
 
+## 🧹 Data Preparation
+
+The project included:
+
+Dataset-level data-quality checks
+Duplicate and null-value analysis
+Date-column conversion
+Product-category translation
+Customer-city normalization
+Order-item cost calculation
+BigQuery data loading
+RFM dataset preparation
+
+The source analysis contains 99,441 customer/order records, 112,650
+order-item records, 103,886 payment records, and 99,224 review
+records, among other datasets.
+
+---
+
 ## 🎯 Business Problem
 
 The analysis was designed around seven CRM questions:
@@ -25,6 +44,19 @@ The analysis was designed around seven CRM questions:
 
 The objective was not just to visualize data, but to connect every analysis
 to a specific business decision.
+
+---
+
+## 🎯 Business Impact
+
+The analysis converts transactional data into CRM actions:
+
+Identify → Segment → Prioritize → Retain → Grow
+
+Instead of treating every customer equally, the project enables businesses
+to prioritize high-value customers, identify retention risks, understand
+loyalty patterns, monitor delivery performance, and design targeted
+customer-retention campaigns.
 
 ---
 
